@@ -63,7 +63,7 @@ public class NetworkSimulation {
         // Creating instances of ClientDevice and PrimaryServer
         ClientNode device1 = new ClientNode("Device1");
         ClientNode device2 = new ClientNode("Device2");
-        ClientNODE device3 = new ClientNode("Device3");
+        ClientNode device3 = new ClientNode("Device3");
 
         StarNetwork starNet = new StarNetwork();
 
